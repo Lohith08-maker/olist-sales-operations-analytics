@@ -26,7 +26,7 @@ Sales and operations analytics project using the **Brazilian E-Commerce Public D
 ## Dashboard
 The Excel workbook contains the KPI summary, monthly sales trend, top product categories and source/method documentation.
 
-> Dashboard screenshot will be added here after exporting the Excel dashboard as an image.
+![Olist Sales & Operations Analytics Dashboard](./olist_dashboard_preview.png)
 
 ## Data Modeling Note
 Use `customer_unique_id` for repeat-customer analysis. `customer_id` is order-specific and should not be treated as a persistent customer identity.
